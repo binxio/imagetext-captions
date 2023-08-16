@@ -1,0 +1,9 @@
+README.md
+setup.py
+ImageTextCaptions.egg-info/PKG-INFO
+ImageTextCaptions.egg-info/SOURCES.txt
+ImageTextCaptions.egg-info/dependency_links.txt
+ImageTextCaptions.egg-info/requires.txt
+ImageTextCaptions.egg-info/top_level.txt
+imagetext_captions/__init__.py
+imagetext_captions/imagetext_captions.py
