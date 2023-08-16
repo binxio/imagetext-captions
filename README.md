@@ -21,6 +21,12 @@ Ensure you have the required libraries:
 pip install requests google-auth
 ```
 
+To install ImageTextCaptions:
+
+```bash
+pip install ImageTextCaptions
+```
+
 ## Usage
 
 Convert Image to Base64:
